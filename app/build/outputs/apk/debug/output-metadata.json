@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "org.tensorflow.lite.examples.posenet",
+  "applicationId": "weiner.noah.noshake.posenet.test",
   "variantName": "debug",
   "elements": [
     {
